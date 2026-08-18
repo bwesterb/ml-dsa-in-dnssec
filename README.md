@@ -17,5 +17,6 @@ mldsa.huque.com (signed by Shumon Huque)
 # Future
 
 Peter van Dijk says "MLDSA44 will be in PowerDNS Recursor 5.5 and Auth 5.2."
+See the [pull request](https://github.com/PowerDNS/pdns/pull/17773).
 
 A [pull request](https://github.com/rthalley/dnspython/pull/1291) for the validator in dnspython.
