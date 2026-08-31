@@ -10,9 +10,14 @@ Pull requests are welcome. This repo will probably become useless around March 2
 
 # Test zones
 
-kochen-specker.info (signed by Bas Westerbaan)
+- mldsa.huque.com (signed by Shumon Huque)
 
-mldsa.huque.com (signed by Shumon Huque)
+- From Bas:
+
+  - `only.alg18.westerbaan.name` signed only by 18
+  - `dual.alg18.westerbaan.name` signed by 13 and 18
+  - `downgrade.alg18.westerbaan.name` is like dual, but alg 18 RRsigs are stripped to test downgrade protection of validator
+
 
 # Future
 
