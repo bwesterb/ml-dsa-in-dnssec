@@ -12,11 +12,11 @@ Pull requests are welcome. This repo will probably become useless around March 2
 
 - mldsa.huque.com (signed by Shumon Huque)
 
-- From Bas:
+- [dnstest.dev](https://dnstest.dev) by Cloudflare includes among others
 
-  - `only.alg18.westerbaan.name` signed only by 18
-  - `dual.alg18.westerbaan.name` signed by 13 and 18
-  - `downgrade.alg18.westerbaan.name` is like dual, but alg 18 RRsigs are stripped to test downgrade protection of validator
+  - `valid.mldsa44.dnstest.dev` signed only by 18
+  - `dual-valid.mldsa44.dnstest.dev` signed by 13 and 18
+  - `downgrade.mldsa44.dnstest.dev` is like dual, but alg 18 RRsigs are stripped to test downgrade protection of validator
 
 
 # Future
