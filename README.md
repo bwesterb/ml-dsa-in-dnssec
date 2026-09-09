@@ -4,11 +4,19 @@ Pull requests are welcome. This repo will probably become useless around March 2
 
 # Authoritative Servers
 
+- [PowerDNS Auth](https://www.powerdns.com/). Supported on [master](https://github.com/PowerDNS/pdns/pull/17773), expected to be released for 5.2.0
+
 # Validating Resolvers
 
 - [Cloudflare 1.1.1.1](https://blog.cloudflare.com/post-quantum-dnssec-1111/)
 
+- [PowerDNS Rec](https://www.powerdns.com/). Supported on [master](https://github.com/PowerDNS/pdns/pull/17773), expected to be released for 5.5.0
+
+- [dnspython](https://github.com/rthalley/dnspython) (on master)
+
 # Signers
+
+- [dnspython](https://github.com/rthalley/dnspython) (on master)
 
 # Test zones
 
@@ -22,8 +30,3 @@ Pull requests are welcome. This repo will probably become useless around March 2
 
 
 # Future
-
-Peter van Dijk says "MLDSA44 will be in PowerDNS Recursor 5.5 and Auth 5.2."
-See the [pull request](https://github.com/PowerDNS/pdns/pull/17773).
-
-A [pull request](https://github.com/rthalley/dnspython/pull/1291) for the validator in dnspython.
