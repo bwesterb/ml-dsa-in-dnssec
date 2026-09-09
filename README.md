@@ -6,6 +6,8 @@ Pull requests are welcome. This repo will probably become useless around March 2
 
 # Validating Resolvers
 
+- [Cloudflare 1.1.1.1](https://blog.cloudflare.com/post-quantum-dnssec-1111/)
+
 # Signers
 
 # Test zones
